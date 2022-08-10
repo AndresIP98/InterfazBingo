@@ -1,0 +1,35 @@
+body{
+    background-color:rgba(12,135,176,1);
+}
+
+
+th {
+    background-color:rgb(68, 68, 68);
+    color: rgb(255, 255, 255);
+}
+
+tr {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+.buscar{
+    color: #fff;
+    background-color: #82bb42;
+    border-color: #82bb42;
+    cursor:pointer;
+}
+
+.regiEntrega{
+    color: #fff;
+    background-color: #82bb42;
+    border-color: #82bb42;
+    cursor:pointer;
+}
+
+.btnExit{
+    color: #fff;
+    background-color: #d2322d;
+    border-color: #ac2925;
+    cursor:pointer;
+}
